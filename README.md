@@ -6,3 +6,6 @@ jOSM
 
 QGIS
   |   points_to_grid.py         ->    Collaboratively import GPS points/information in OSM
+
+File formatting
+  |   text_to_csv.py            ->    Export a group of text files to .csv
